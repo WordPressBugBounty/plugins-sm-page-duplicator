@@ -1,0 +1,1 @@
+# plugins-sm-page-duplicator
